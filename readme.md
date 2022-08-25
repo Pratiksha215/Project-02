@@ -1,4 +1,4 @@
-Responsive Street Style Landing Page designed using pure Html and Css.
+## Responsive Street Style Landing Page designed using pure Html and Css.
 
 ## Concepts and Learnings
 
@@ -11,7 +11,7 @@ Responsive Street Style Landing Page designed using pure Html and Css.
 - Flexbox
 
 ## Landing Page Snapshot
-![Snapshot](1.png)
+![Snapshot](2.png)
 
 
 
